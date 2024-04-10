@@ -23,4 +23,6 @@ O Anunciador Automático é uma ferramenta útil para administradores de grupos 
 - Caso deseje serviços adicionais, como configuração do bot ou teste VIP, será aplicada uma taxa adicional de R$ 100,00 ao custo do bot.
 - Se optar por adicionar mais recursos ou funcionalidades ao projeto, será aplicada uma taxa adicional de R$ 200,00 para cada novo recurso ou funcionalidade.
 - [🤑CLIQUE AQUI PARA ENTRAR EM CONTATO](https://t.me/VILHALVA100)
+- [🧑‍💻PRECISA DE UM FREELANCER? CLIQUE AQUI PARA VER EM TELEGRAPH](https://telegra.ph/FREELANCER-10-19-9)
+- [🧑‍💻PRECISA DE UM FREELANCER? CLIQUE AQUI PARA VER EM README](https://github.com/VILHALVA/VILHALVA/blob/main/FREELANCER/README.md)
 
