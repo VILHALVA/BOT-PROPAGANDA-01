@@ -1,7 +1,9 @@
 # BOT PROPAGANDA - VOLUME 1
 🛑ESSE É UM BOT DO TELEGRAM QUE ENVIA UM ÁNUNCIO SEMPRE QUE UM MEMBRO DO GRUPO ENVIA UMA MENSAGEM!
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 O `BOT PROPAGANDA` (Ou Anunciador Automático) é um bot Telegram desenvolvido em Python que permite aos administradores de grupos enviar anúncios automaticamente sempre que um membro enviar uma nova mensagem no grupo. O bot é projetado para garantir que apenas membros regulares, e não administradores, recebam os anúncios.
