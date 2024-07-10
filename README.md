@@ -1,4 +1,4 @@
-# BOT PROPAGANDA - VOLUME 1
+# BOT PROPAGANDA 01
 🛑ESSE É UM BOT DO TELEGRAM QUE ENVIA UM ÁNUNCIO SEMPRE QUE UM MEMBRO DO GRUPO ENVIA UMA MENSAGEM!
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
@@ -18,8 +18,9 @@ O Anunciador Automático é uma ferramenta útil para administradores de grupos 
 ## PROCEDIMENTO DE COMPRA:
 - Para efetuar a compra, por favor, entre em contato comigo por mensagem privada, informando:
     ```bash
-    Gostaria de adquirir o bot: https://github.com/VILHALVA/BOT-PROPAGANDA-VOLUME-1
+    Gostaria de adquirir o bot: https://github.com/VILHALVA/BOT-PROPAGANDA-01
     ```
+
 - Após a confirmação do pagamento e o envio do comprovante, você receberá um arquivo zip contendo o código-fonte do bot, acompanhado de um manual detalhado (`MANUAL.md`), que oferece instruções abrangentes sobre a configuração do ambiente, sugestões de cursos e documentação recomendada, bem como o arquivo `HOSPEDAGEM.md`, contendo orientações para hospedar o seu bot.
 
 - [🤑CLIQUE AQUI PARA ENTRAR EM CONTATO](https://t.me/VILHALVA100)
